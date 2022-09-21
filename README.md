@@ -1,9 +1,4 @@
 
-Test Project build using Hydrogen - React
-Deploy your own Hydrogen project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/hydrogen&template=hydrogen)
-
 
 ## Getting started
 
