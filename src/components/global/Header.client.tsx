@@ -119,7 +119,7 @@ function MobileHeader({
         to="/"
       >
         <Heading className="font-bold text-center" as={isHome ? 'h1' : 'h2'}>
-          {title}
+            Carlston
         </Heading>
       </Link>
 
